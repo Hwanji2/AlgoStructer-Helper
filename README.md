@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/32eac42a-a607-48ec-8195-bcf15b8db441)
+
 # 자료구조 및 알고리즘 추천 및 비교 프로그램
 
 이 프로젝트는 다양한 자료구조와 알고리즘을 추천하고 비교할 수 있는 C++ 기반 프로그램입니다.  
