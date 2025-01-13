@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/32eac42a-a607-48ec-8195-bcf15b8db441)
+
 
 # 자료구조 및 알고리즘 추천 및 비교 프로그램
 
@@ -9,9 +9,15 @@
 
 ## 주요 기능
 
+![image](https://github.com/user-attachments/assets/6cdf1077-07ac-4635-b09d-145f550be83e)
+
 ### 1. **자료구조 추천**
 - 사용자가 입력한 코드 스니펫을 분석하여 적합한 자료구조를 추천합니다.
 - 정규식을 사용하여 코드 내 반복문, 조건문, 배열 접근, 맵 접근 등 다양한 패턴을 감지하여 추천 기준을 강화합니다.
+
+
+
+![image](https://github.com/user-attachments/assets/29de5ef5-ef9d-45dd-9f34-708c4145337a)
 
 ### 2. **정렬 알고리즘 비교**
 - 다음 네 가지 정렬 알고리즘을 사용하여 성능과 결과를 비교합니다:
@@ -21,6 +27,7 @@
   4. 순차 정렬 (STL `std::sort` 함수)
 - 각 알고리즘의 단계별 과정과 평균 수행 시간을 출력합니다.
 
+![image](https://github.com/user-attachments/assets/32eac42a-a607-48ec-8195-bcf15b8db441)
 ### 3. **그래프 알고리즘 비교**
 - 사용자로부터 입력받은 그래프에 대해 다음 두 가지 알고리즘을 실행하고 결과를 비교합니다:
   1. 다익스트라 알고리즘 (최단 경로)
