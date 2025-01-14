@@ -40,7 +40,7 @@
 
 - **개발 언어**: C++ 17
 - **빌드 도구**: GCC / Clang / MSVC
-- **IDE**: Visual Studio Code / CLion / Visual Studio
+- **IDE**: Visual Studio Code
 
 ---
 
